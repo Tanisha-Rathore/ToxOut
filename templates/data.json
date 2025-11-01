@@ -1,0 +1,44 @@
+{
+    "ingredients": {
+      "water": {
+        "status": "No harmful ingredient found",
+        "details": "Safe for use."
+      },
+      "alcohol": {
+        "status": "Harmful ingredient found",
+        "details": "Can cause skin dryness and irritation."
+      },
+      "sodium lauryl sulfate": {
+        "status": "Harmful ingredient found",
+        "details": "Can be harsh on the skin and cause irritation."
+      },
+      "glycerin": {
+        "status": "No harmful",
+        "details": "Hydrates skin and is generally safe."
+      },
+      "parabensandsau": {
+        "status": "Harmful ingredient found",
+        "details": "May disrupt hormonal balance."
+      },
+      "fragrance": {
+        "status": "Harmful ingredient found",
+        "details": "Can cause allergic reactions and skin irritation."
+      },
+      "sodium hyaluronate": {
+        "status": "No harmful",
+        "details": "Hydrates and plumps skin."
+      },
+      "triclosan": {
+        "status": "Harmful ingredient found",
+        "details": "May disrupt endocrine function and harm the skin."
+      },
+      "formaldehyde": {
+        "status": "Harmful ingredient found",
+        "details": "Known to cause allergic skin reactions."
+      },
+      "retinol": {
+        "status": "No harmful",
+        "details": "Aids in reducing wrinkles and fine lines."
+      }
+    }
+  }
